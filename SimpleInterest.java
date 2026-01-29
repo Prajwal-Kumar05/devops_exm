@@ -1,4 +1,4 @@
-public class si {
+public class SimpleInterest {
     public static void main(String[] args) {
         int pri = 4000;   // Principal
         int r = 3;        // Rate of interest
